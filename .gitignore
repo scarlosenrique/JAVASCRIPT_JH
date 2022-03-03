@@ -1,0 +1,4 @@
+# ignorando algunas carpetas y archivos
+
+.vscode
+
